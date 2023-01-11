@@ -7,7 +7,7 @@ const COMMAND_SYMBOL: &str = "$";
 
 #[derive(Debug)]
 struct File {
-    filename: String,
+    _filename: String,
     length: usize,
 }
 
@@ -84,7 +84,7 @@ fn main() -> Result<()> {
             let filename = line_input.split(" ").nth(1).unwrap();
 
             let file = File {
-                filename: String::from(filename),
+                _filename: String::from(filename),
                 length
             };
 
