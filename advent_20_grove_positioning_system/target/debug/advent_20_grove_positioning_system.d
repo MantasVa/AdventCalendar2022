@@ -1,0 +1,1 @@
+C:\Users\mvaluckas\source\repos\projects\AdventCalendar2022\advent_20_grove_positioning_system\target\debug\advent_20_grove_positioning_system.exe: C:\Users\mvaluckas\source\repos\projects\AdventCalendar2022\advent_20_grove_positioning_system\src\main.rs
