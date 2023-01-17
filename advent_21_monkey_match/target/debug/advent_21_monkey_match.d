@@ -1,0 +1,1 @@
+C:\Users\mvaluckas\source\repos\projects\AdventCalendar2022\advent_21_monkey_match\target\debug\advent_21_monkey_match.exe: C:\Users\mvaluckas\source\repos\projects\AdventCalendar2022\advent_21_monkey_match\src\main.rs
