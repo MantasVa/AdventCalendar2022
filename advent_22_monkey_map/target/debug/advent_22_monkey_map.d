@@ -1,0 +1,1 @@
+C:\Users\mvaluckas\source\repos\projects\AdventCalendar2022\advent_22_monkey_map\target\debug\advent_22_monkey_map.exe: C:\Users\mvaluckas\source\repos\projects\AdventCalendar2022\advent_22_monkey_map\src\main.rs
