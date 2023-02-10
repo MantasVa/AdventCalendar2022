@@ -1,0 +1,1 @@
+C:\Users\mvaluckas\source\repos\projects\AdventCalendar2022\advent_25_full_of_hot_air\target\debug\advent_25_full_of_hot_air.exe: C:\Users\mvaluckas\source\repos\projects\AdventCalendar2022\advent_25_full_of_hot_air\src\main.rs

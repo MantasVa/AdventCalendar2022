@@ -1,0 +1,1 @@
+C:\Users\mvaluckas\source\repos\projects\AdventCalendar2022\advent_24_blizzard_basin\target\debug\advent_24_blizzard_basin.exe: C:\Users\mvaluckas\source\repos\projects\AdventCalendar2022\advent_24_blizzard_basin\src\main.rs
